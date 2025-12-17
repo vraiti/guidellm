@@ -126,6 +126,7 @@ dev = [
     "mdformat-frontmatter~=2.0.8",
     "mdformat-gfm~=0.3.6",
     "mkdocs-click",
+    "mkdocs-material",
     "sphinx-click",
 
     # type-checking

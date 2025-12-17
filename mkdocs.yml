@@ -91,7 +91,6 @@ plugins:
   - mike
   - minify:
       minify_html: true
-  - mkdocs-click
   - mkdocs-nav-weight
   - mkdocstrings:
       default_handler: python
