@@ -11,9 +11,10 @@ Complete command-line interface reference for GuideLLM.
     All CLI options can be set via environment variables using the `GUIDELLM_` prefix.
     For example, `--target` can be set with `GUIDELLM_TARGET`.
 
-::: mkdocs_click
-    :module: guidellm.__main__
-    :command: cli
-    :prog_name: guidellm
-    :depth: 3
-    :style: table
+```click
+:module: guidellm.__main__
+:command: cli
+:prog_name: guidellm
+:depth: 3
+:style: table
+```
