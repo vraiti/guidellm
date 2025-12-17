@@ -125,6 +125,8 @@ dev = [
     "mdformat-footnote~=0.1.1",
     "mdformat-frontmatter~=2.0.8",
     "mdformat-gfm~=0.3.6",
+    "mkdocs-click",
+    "sphinx-click",
 
     # type-checking
     "pandas-stubs",
